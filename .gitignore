@@ -4,3 +4,9 @@ dist/
 *.tsbuildinfo
 vite-dev-*.err.log
 vite-dev-*.out.log
+
+# Local source/reference media. Runtime assets for Vercel live under public/.
+/*.png
+/*.jpg
+/*.jpeg
+/*.mp4
